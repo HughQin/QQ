@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="text_welcome">欢迎来到创意画板</string>
+    <string name="btn_clear">清除</string>
+</resources>
